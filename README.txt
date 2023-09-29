@@ -1,0 +1,1 @@
+O programa foi escrito em C++ e compilado com o g++ padrão do Linux. Esse programa implementa uma arvore de dados, e cria uma classe de Cadastro. Os objetos dessa classe podem ser adicionados na árvore através da sobrecarga do operador +=. Caso crie uma classe derivada de Cadastro, também poderá ser adicionada a árvore devido às classes árvore e cadastro serem templates.
